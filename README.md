@@ -1,3 +1,4 @@
+
 # 1tinymvz.net
 # Creator : Zed-Team
 # Telegram Channel : @FR13ND3
@@ -6,3 +7,4 @@
 Please Follow us :)
 Dont Copy just fork
 Brute Force : 1tinymvz.net
+# Pay Attention : Sure Install FireFox
